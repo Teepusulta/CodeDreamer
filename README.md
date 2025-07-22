@@ -1,2 +1,3 @@
-Download it from releases or as a zip file. Windows will say it is a virus as the installer is not signed but click on more info and run it anyway.
-It uses gemini-1.5-flash-latest. Please enter your gemini api key.Get it from https://aistudio.google.com/
+You can download the app from the Releases section or as a ZIP file. Windows might warn you that the installer is a virus since it's not signed—just click "More info" and then "Run anyway" to continue.
+The app uses Gemini 1.5 Flash latest. You’ll need to enter your Gemini API key to get started. You can grab one from: https://aistudio.google.com/
+
